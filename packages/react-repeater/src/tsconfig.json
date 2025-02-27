@@ -7,6 +7,7 @@
 		]
 	},
 	"references": [
+		{ "path": "../../binding-common/src" },
 		{ "path": "../../react-binding/src" },
 		{ "path": "../../react-utils/src" }
 	]
